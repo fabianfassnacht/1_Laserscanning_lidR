@@ -1,0 +1,10 @@
+Mini-Präsentation - was machen wir heute
+
+QGIS
+
+Präsentation der Daten
+
+Tutorial:
+- https://r-lidar.github.io/lidRbook/
+
+Weiterführende Übungen:
